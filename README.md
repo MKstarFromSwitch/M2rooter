@@ -7,7 +7,8 @@ This can **brick your device** if done incorrectly.
 - You are doing this on your own risk.
 - I am not responsible for any damage.
 
-Check the "Issues" tab for issue guidelines.
+## Issue Guidelines
+Go to the Issues tab to see a template to use when opening an issue.
 
 ## Requirements
 - A Linux computer with Python, Git, ADB, wget, and usbutils installed. (nothing for windows yet, don't use in a live USB - driver installs and files won't persist!)
